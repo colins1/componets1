@@ -1,8 +1,8 @@
 import './App.css';
 import './bootstrap.css';
 import React from 'react';
-import List from './component/List';
-import ListItem from './component/ListItem';
+import List from './components/List';
+import ListItem from './components/ListItem';
 function App() {
   return (
     <div className="App">
